@@ -1,0 +1,3 @@
+CTransformers
+gradio
+langchain
