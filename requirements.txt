@@ -1,5 +1,0 @@
-google-generativeai
-langchain
-PyPDF2
-faiss-cpu
-streamlit
